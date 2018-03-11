@@ -1,0 +1,126 @@
+body {
+    font-family: 'Slabo 27px', sans-serif;
+}
+
+
+
+/*
+
+Nav Bar CSS
+
+*/
+
+
+
+.logo  {
+    height:50px;
+    width:50px;
+    margin-top:20px;
+    padding: 0 5px;
+    
+}
+
+header {
+    width:100%;
+    border: 2x solid black;
+    background-color:#d13478;
+    height: 100px;
+    vertical-align: middle;
+    justify-content: space-between;
+  
+
+}
+
+
+
+
+h1 {
+    color: #7cff19;
+    line-height:100px;
+    margin:0;
+    padding:0;
+}
+
+div {
+    height:100px;
+}
+
+header, header div {
+    display: inline-flex;
+    vertical-align: middle;
+
+}
+
+ul {
+    list-style-type: none;
+    float:right;
+    margin:0;
+    padding:0;
+    justify-content: space-around;
+}
+
+ul li {
+    display:inline-flex;
+    line-height: 100px;
+    margin:0;
+    padding:0;
+}
+
+a {
+    padding-right: 10px;
+    color: #7cff19;
+    font-size: 15px;
+}
+
+a:hover {
+    color: #f5f5f5;
+}
+
+/*
+
+Body CSS
+
+*/
+
+.main {
+    margin-top: 5px;
+    text-align: center;
+}
+
+.roundImg {
+    height:300px;
+    width:300px;
+    border-radius: 50%;
+}
+
+
+
+/*
+
+Footer CSS
+
+*/
+
+    footer {
+        text-align: center;
+        background-color:#51db68;
+        margin-top: 5px;
+        width: 100%;
+        display: inline-block;
+        text-align: center;
+    
+     }
+     
+     footer p {
+        margin:0;
+        padding:0;
+        width: auto;
+     }
+     .appLink {
+         display: inline-block;
+        height:100px;
+        width: 100px;
+        margin:0;
+        padding:0;
+
+     }

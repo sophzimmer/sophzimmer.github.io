@@ -1,0 +1,61 @@
+body{
+    background-color: d13478;
+}
+nav{
+    background-color: d13478;
+}
+img{
+    width:  1200px;
+}
+body{
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+nav {
+    padding: 5px;
+    display: block;
+    width: 300px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+#contactpic img {
+    height:30px;
+    width:30px;
+
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+article p {
+   
+   text-align: center;
+}
+.scoottitle {
+    font-size: 50px;
+    text-align: center;
+}
+.contactbody {
+    background-image: url("scooterfall.jpg");
+    background-size: contain; 
+    background-position: right top;
+    background-repeat: no-repeat
+}
+#copycontact {
+    font-size: 10px;
+}
+
+#contactheader {
+    font-family: 'Slabo 27px', sans-serif;
+    font-size: 45px;
+    color: #7cff19;
+
+}
